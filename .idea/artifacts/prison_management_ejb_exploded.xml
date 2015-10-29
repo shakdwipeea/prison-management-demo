@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="prison-management:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/prison_management_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="prison-management/ejb/EJB" />
+      <element id="module-output" name="prison-management" />
+    </root>
+  </artifact>
+</component>
